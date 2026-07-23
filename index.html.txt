@@ -32,7 +32,7 @@
     </select>
     <br><br>
 
-    <input type="submit" value="Register">
+    <input type="submit" value="Register" style="width:100%; padding:10px; background-color:#007BFF; color:white; border:none; border-radius:5px; cursor:pointer;">
 
 </form>
 
